@@ -3,6 +3,8 @@ import ClassicEditor from '@ckeditor/ckeditor5-build-classic'
 import logo from './logo.svg';
 import './App.css';
 
+// code to test ckeditor
+
 function App() {
   return (
     <div className="App">
