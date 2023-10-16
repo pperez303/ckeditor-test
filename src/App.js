@@ -3,7 +3,7 @@ import ClassicEditor from '@ckeditor/ckeditor5-build-classic'
 import logo from './logo.svg';
 import './App.css';
 
-// code to test ckeditor
+// code to test ckeditor using a custom ckeditor build.
 
 function App() {
   return (
